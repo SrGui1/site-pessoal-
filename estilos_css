@@ -1,0 +1,54 @@
+body {
+    color: rgb(212, 207, 138);
+    background-color: rgb(37, 34, 34);
+}
+
+.div {
+    border: 1px solid rgb(17, 16, 1);
+    width:90%;
+    padding: 10px;
+    margin: auto;
+    background-color: azure;
+    text-align: center;
+    color: rgb(117, 110, 8);
+
+}
+
+.imagens {
+     border: 3px solid rgb(212, 207, 138);
+    width:80%;
+    padding: 20px;
+    margin: auto;
+    background-color: rgb(224, 224, 203);
+    text-align: center;
+    color: rgb(158, 156, 28);
+}
+
+a {
+        color: rgb(212, 207, 138) ;
+}
+
+img{
+    width: 100px;
+    border: 2px solid rgb(158, 156, 28);
+}
+
+.inicio {
+    text-align: center;
+
+}
+.tabela {
+    border: 3px solid rgb(212, 207, 138);
+    background-color: rgb(224, 224, 203);
+    color: rgb(158, 156, 28);
+    text-align: center;
+    margin: auto;
+    width: 90%;
+    height: 300px;
+    border-collapse: collapse;
+}
+
+.tabela th {
+    background: rgb(219, 235, 162);
+
+}

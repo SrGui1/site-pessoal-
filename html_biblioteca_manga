@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="PT-br">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bibliteca</title>
+</head>
+<body>
+
+    <section class="inicio">
+        <h1>Areá de Mangas</h1>
+        <p>Aqui nos temos mangas no precinho para você!</p>
+    
+        
+        <h2>Mangas novos no ramo</h2>
+        
+            <h2>mais</h2>
+    
+        </section>
+        
+        <div class="div">
+            <p>Entrada o site</p>
+        </div>
+
+        <div class="imagens">
+            <tr> 
+                
+                <td><img src="daruma.png"> Daruma</td>
+                <td><img src="sense_life.png"> Sense life</td>
+                <td><img src="Kagurabachi.png"> Kagurabachi</td>
+                <td><img src="Dan da Dan.png"> Dan da Dan</td>
+            </tr>
+        </div>
+        
+        <p>🏆 Top 4 — Do mais ao menos famoso</p>
+        <ol>
+            <li>— Dandadan 🥇</li>
+            <li>— Kagurabachi 🥈</li>
+            <li>— Daruma 🥉</li>
+            <li>— Sense Life</li>
+        </ol>
+        <p>Links dos mangas</p>
+        <ul>
+            <li><a href="https://lista.mercadolivre.com.br/manga-dandadan" target="_blank">Dan da Dan</a></li>
+            <li><a href="https://panini.com.br/kagurabachi-01" target="_blank">Kagurabachi</a></li>
+            <li><a href="https://comicboom.com.br/produto/daruma-perseveranca/" target="_blank">Daruma</a></li>
+            <li><a href="https://lista.mercadolivre.com.br/sense-life-manga" target="_blank">Sense life</a></li>
+        </ul><br>
+        
+        <table class="tabela" border="solid">
+            <tr>
+                <th>Empresa/Tipo</th>
+                <th>Dandadan</th>
+                <th>Kagurabachi</th>
+                <th>Daruma: Perseverança</th>
+                <th>Sense Life</th>             
+            </tr>
+            <tr>
+                <th>Autor</th>
+                <td>Yukinobu Tatsu</td>
+                <td>Takeru Hokazono</td>
+                <td>Monge Han (Eric Han Schneider)</td>
+                <td>Glitch Tellend (Caio Ulisses)</td>
+            </tr>
+            <tr>
+                <th>Editora brasileira</th>
+                <td>Panini</td>
+                <td>Panini</td>
+                <td>Pitaya (HarperCollins Brasil)</td>
+                <td>MPEG</td>
+            </tr>
+            <tr>
+                <th>Volumes em circulação</th>
+                <td>24 no Japão / 21 no Brasil (em publicação)</td>
+                <td>11 no Japão / 8 no Brasil (em publicação)</td>
+                <td>2 volumes, 3º previsto para 2027</td>
+                <td>2 volumes + artbook</td>
+            </tr>
+            <tr>
+                <th>Adaptação/apoio extra</th>
+                <td>Anime de sucesso</td>
+                <td>Ainda sem anime confirmado</td>
+                <td>---</td>
+                <td>Artbook oficial e gashapons anunciados</td>
+            </tr>
+            
+        </table>
+
+
+</body>
+</html>
